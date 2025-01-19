@@ -12,7 +12,7 @@
           "humidity_sensor": "Luchtvochtigheidssensor",
           "poll": "Inschakelen polling",
           "scan_interval": "Poll interval (seconden)",
-          "custom_icons": "Gebruikerspecifieke iconen"
+          "custom_icons": "Gebruikerspecifieke pictogrammen"
         }
       }
     }
@@ -20,7 +20,7 @@
   "config": {
     "abort": {
       "already_configured": "Deze combinatie van temperatuur- en luchtvochtigheidssensoren is al geconfigureerd",
-      "no_sensors": "Geen temperatuur- of luchtvochtigheidssensoren gevonden. Probeer opnieuw in geadvanceerde modus.",
+      "no_sensors": "Geen temperatuur- of luchtvochtigheidssensoren gevonden. Probeer opnieuw in geavanceerde modus.",
       "no_sensors_advanced": "Geen temperatuur- of luchtvochtigheidssensoren gevonden."
     },
     "error": {
@@ -36,7 +36,7 @@
           "humidity_sensor": "Luchtvochtigheidssensor",
           "poll": "Inschakelen polling",
           "scan_interval": "Poll interval (seconden)",
-          "custom_icons": "Gebruikerspecifieke iconen",
+          "custom_icons": "Gebruikerspecifieke pictogrammen",
           "enabled_sensors": "Ingeschakelde sensoren"
         }
       }
@@ -51,7 +51,7 @@
         "name": "Dauwpunt"
       },
       "dew_point_perception": {
-        "name": "Dauwpunt beleving",
+        "name": "Dauwpuntbeleving",
         "state": {
           "dry": "Een beetje droog voor sommigen",
           "very_comfortable": "Zeer comfortabel",
@@ -82,7 +82,7 @@
         "name": "Humidex"
       },
       "humidex_perception": {
-        "name": "Humidex beleving",
+        "name": "Humidex-beleving",
         "state": {
           "comfortable": "Comfortabel",
           "noticable_discomfort": "Merkbaar ongemakkelijk",
